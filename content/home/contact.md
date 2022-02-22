@@ -39,13 +39,11 @@ content:
     longitude: '-73.984016'
   directions: 
   office_hours:
-    - 
-    - 
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: Send me a DM!
       link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
