@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Czarina Luna. This work is licensed under {license}'
+    notice: '© Czarina Luna {year}.'
     license:
       enable: true
       allow_derivatives: false
