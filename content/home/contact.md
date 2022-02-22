@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: CzarinaGLuna@gmail.com
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
@@ -35,8 +35,8 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '40.730610'
+    longitude: '-73.935242'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
