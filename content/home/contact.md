@@ -43,7 +43,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Send me a DM!
+      name: DM Me
       link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
