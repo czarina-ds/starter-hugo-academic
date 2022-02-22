@@ -35,8 +35,8 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '40.730610'
-    longitude: '-73.935242'
+    latitude: '40.754932'
+    longitude: '-73.984016'
   directions: 
   office_hours:
     - 
