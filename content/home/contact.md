@@ -28,10 +28,10 @@ content:
   email: CzarinaGLuna@gmail.com
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 
+    city: New York
+    region: NY
+    postcode:
     country: United States
     country_code: US
   coordinates:
