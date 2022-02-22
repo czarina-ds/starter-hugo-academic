@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: CzarinaGLuna@gmail.com
-  phone: 888 888 88 88
+  phone: 
   address:
     street: 
     city: New York
@@ -37,10 +37,10 @@ content:
   coordinates:
     latitude: '40.730610'
     longitude: '-73.935242'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: 
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 
+    - 
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
