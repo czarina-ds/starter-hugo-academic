@@ -1,13 +1,13 @@
 ---
 title: Czarina Luna
 role: Data Scientist
-avatar_filename: czarina-luna.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Model Deployment
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,12 +29,12 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: Certificate in Data Science
+      institution: Flatiron School
+      year: 2022
+    - course: Bachelor's in Political Science
+      institution: Ateneo de Manila University
+      year: 2017
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
